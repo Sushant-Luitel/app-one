@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/app-two/:path*",
-      "destination": "https://app-two-eight.vercel.app/:path*"
+      "destination": "https://app-two-eight.vercel.app/app-two/:path*"
     }
   ]
 }
